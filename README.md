@@ -92,11 +92,11 @@
     <tr align="center">
       <td>
         <!-- Статистика профиля -->
-        <img src="https://github-readme-stats.vercel.app/api?username=JatyPruducts&show_icons=true&locale=ru&theme=tokyonight&count_private=true&hide_rank=true" alt="Статистика" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=JatyPruducts&show_icons=true&locale=ru&theme=tokyonight&count_private=true&hide_rank=true" alt="Статистика" width="120%"/>
       </td>
       <td>
         <!-- Статистика непрерывных коммитов -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=JatyPruducts&theme=tokyonight" alt="Стрик коммитов" width="100%"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=JatyPruducts&theme=tokyonight" alt="Стрик коммитов" width="120%"/>
       </td>
     </tr>
     <!-- Нижний ряд с одним блоком, растянутым на всю ширину -->
