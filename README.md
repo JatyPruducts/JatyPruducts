@@ -44,9 +44,9 @@
   <br/>
   <!-- Databases & Storage -->
   <img src="https://img.shields.io/badge/Базы_Данных_&_Хранилища-purple?style=for-the-badge&logo=none" />
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
   <a href="https://min.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MinIO-C72C41?style=for-the-badge&logo=minio&logoColor=white"/></a>
   <br/>
