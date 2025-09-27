@@ -32,6 +32,7 @@
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/></a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
   <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"/></a>
   
   <br/>
   
