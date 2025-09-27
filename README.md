@@ -95,10 +95,10 @@
 <h3>📊 Моя статистика на GitHub:</h3>
 <p align="center">
   <a href="https://github.com/JatyPruducts">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ВАШ-НИКНЕЙМ&show_icons=true&locale=ru&theme=tokyonight&count_private=true" alt="Статистика"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JatyPruducts&show_icons=true&locale=ru&theme=tokyonight&count_private=true" alt="Статистика"/>
   </a>
   <a href="https://github.com/JatyPruducts">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ-НИКНЕЙМ&layout=compact&locale=ru&theme=tokyonight" alt="Основные языки"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatyPruducts&layout=compact&locale=ru&theme=tokyonight" alt="Основные языки"/>
   </a>
 </p>
 
