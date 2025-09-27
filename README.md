@@ -104,7 +104,7 @@
     <tr align="center">
       <td colspan="2">
         <!-- Основные языки -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatyPruducts&layout=compact&locale=ru&theme=tokyonight" alt="Основные языки" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatyPruducts&layout=compact&locale=ru&theme=tokyonight" alt="Основные языки" width="91%"/>
       </td>
     </tr>
   </table>
