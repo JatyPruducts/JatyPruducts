@@ -49,6 +49,7 @@
   <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
   <a href="https://min.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MinIO-C72C41?style=for-the-badge&logo=minio&logoColor=white"/></a>
+  <br/>
   <!-- Tools & Other -->
   <img src="https://img.shields.io/badge/Инструменты-grey?style=for-the-badge&logo=none" />
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/></a>
