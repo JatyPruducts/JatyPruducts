@@ -87,17 +87,28 @@
 
 <!-- Статистика GitHub -->
 <h3>📊 Моя GitHub-активность</h3>
-<p align="center">
-  <a href="https://github.com/JatyPruducts">
-    <!-- Статистика профиля -->
-    <img src="https://github-readme-stats.vercel.app/api?username=JatyPruducts&show_icons=true&locale=ru&theme=tokyonight&count_private=true" alt="Статистика" width="49%"/>
-    <!-- Статистика непрерывных коммитов -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JatyPruducts&theme=tokyonight" alt="Стрик коммитов" width="49%"/>
-    <br/>
-    <!-- Основные языки -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatyPruducts&layout=compact&locale=ru&theme=tokyonight" alt="Основные языки"/>
-  </a>
-</p>
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <!-- Верхний ряд с двумя блоками -->
+    <tr align="center">
+      <td>
+        <!-- Статистика профиля (с убранным рангом для выравнивания высоты) -->
+        <img src="https://github-readme-stats.vercel.app/api?username=JatyPruducts&show_icons=true&locale=ru&theme=tokyonight&count_private=true&hide_rank=true" alt="Статистика" width="100%"/>
+      </td>
+      <td>
+        <!-- Статистика непрерывных коммитов -->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=JatyPruducts&theme=tokyonight" alt="Стрик коммитов" width="100%"/>
+      </td>
+    </tr>
+    <!-- Нижний ряд с одним блоком, растянутым на всю ширину -->
+    <tr align="center">
+      <td colspan="2">
+        <!-- Основные языки -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatyPruducts&layout=compact&locale=ru&theme=tokyonight" alt="Основные языки" width="100%"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!-- Визуальный разделитель -->
 <p align="center">
