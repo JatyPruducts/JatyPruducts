@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">Привет! Я Миша 👋</h1>
-<h3 align="center">Python & C# Backend Developer | "ГК Глоубайт"</h3>
+<h3 align="center">Python & C# Backend Developer</h3>
 
 <!-- Секция "Обо мне" -->
 <p align="center">
